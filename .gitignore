@@ -1,0 +1,16 @@
+# Node-moduler
+node_modules/
+
+# Byggmappen
+dist/
+
+# Miljöfiler
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Operativsystemspecifika filer
+.DS_Store
+Thumbs.db
