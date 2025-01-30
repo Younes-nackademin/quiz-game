@@ -69,8 +69,9 @@ src/ → Huvudmappen där all React-kod finns.
 components/ → Innehåller återanvändbara komponenter som frågor, poängräknare och timer.
 
 
-<div>, <h2>, <button>  du ska skriva jsx istället för js eftersom om de innehåller dessa tecknet som visas i början, när sdu ska skriva bara js det är om det bara innehåller JavaScript-logik alltså inga tecken som det finns i jsx.
+(<div>, <h2>, <button>)  Du ska skriva jsx istället för js eftersom om de innehåller dessa tecknet som visas i början, när sdu ska skriva bara js det är om det bara innehåller JavaScript-logik alltså inga tecken som det finns i jsx.
 
+ 
 QuestionCard.jsx 
 
 
